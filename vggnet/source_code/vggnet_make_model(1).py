@@ -13,7 +13,7 @@ num_classes=2
 epoch=1
 standard_point = 800 #3600
 
-
+  
 path = 'D:/dataset/dogs-vs-cats/train1000'
 #path = 'D:/dataset/dogs-vs-cats/train4000'
 
